@@ -8,9 +8,3 @@ file has been modified again
 file modififed
 
 file
-
-f
-
-mod 
-
-modified
